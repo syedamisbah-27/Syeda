@@ -82,24 +82,22 @@ We welcome contributions from everyone! Follow the steps below to contribute:
    Go to the repository and fork it to your GitHub account.  
    [Fork the repository](https://github.com/Hifza-Khalid/Web_Development_Training/fork) 🍴
 
-2. **Clone your forked repository**  
+2. **Clone your forked repository📝**  
    Clone the repository to your local machine:
    ```bash
    git clone https://github.com/Hifza-Khalid/Web_Development_Training.git
 
-💻
 
-3. **Create a new branch for your feature or fix**
+3. **Create a new branch for your feature or fix  🌱**
    Create a branch to make your changes:
 
    ```bash
    git checkout -b feature/your-feature-name
    ```
+ 
 
-   🌱
-
-4. **Make changes**
-   Make the necessary changes to the repository. Add files, fix issues, or update content. ✍️
+4. **Make changes✍️**
+   Make the necessary changes to the repository. Add files, fix issues, or update content. 
 
 5. **Commit your changes**
    After making your changes, commit them with a meaningful commit message:
@@ -126,7 +124,7 @@ We welcome contributions from everyone! Follow the steps below to contribute:
 
 ---
 
-## 🙏 Thanks
+## 🌟 A Big Thank You!
 
 Thank you for being a part of this learning journey! We appreciate your contributions, and together, we can build a strong community of web developers. Happy coding! 🚀
 
